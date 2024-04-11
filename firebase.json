@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "/dist/goty/browser",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

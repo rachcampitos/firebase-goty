@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestore-goty-de0a2": {
+      "hosting": {
+        "goty": [
+          "firestore-goty-de0a2"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestore-goty-de0a2"
+  }
+}
